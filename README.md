@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NihilloChrollzer
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Networking
+
 
 <!---
 NihilloChrollzer/NihilloChrollzer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
